@@ -321,6 +321,11 @@ body {
   transition: var(--transition-1);
 }
 
+/**
+ * copyright 2024 Suraj Kumar
+ */
+
+
 .navbar-link:is(:hover, :focus-visible) { color: var(--french-bistre); }
 
 .overlay {
@@ -669,6 +674,12 @@ body {
   color: var(--french-bistre);
   font-size: 3.2rem;
 }
+
+
+/**
+ * copyright 2024 Suraj Kumar
+ */
+
 
 .footer-brand .footer-text { margin-block: 20px; }
 
